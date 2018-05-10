@@ -1,2 +1,6 @@
 *.key
 *.DS_Store
+*.aux
+*.log
+*.gz
+
